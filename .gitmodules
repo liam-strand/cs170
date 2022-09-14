@@ -1,3 +1,0 @@
-[submodule "hw"]
-	path = hw
-	url = git@github.com:liam-strand/cs170-hw.git
