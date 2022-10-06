@@ -1,5 +1,7 @@
 #### USER ####
 .DS_Store
+lecture/**/*.pdf
+recitation/**/*.pdf
 
 #### LATEX ####
 ## Core latex/pdflatex auxiliary files:
