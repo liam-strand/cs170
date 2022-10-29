@@ -42,7 +42,7 @@ There's no section in $L$ that we can repeat...sad cs boy hours :(
 
 ### Example
 
-$$L = \{ww \mid w \in \{0,1\}^*\}$$
+$$L = \{w \mid w \in \{0,1\}*\}$$
 
 1. Assume $L$ is regluar and thus has a pumping length $p$
 2. Let the input be $0^p10^p1$ ($w = 0^p1$)

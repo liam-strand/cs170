@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "README": "markdown",
+        "CalcYouLater_medium": "plaintext",
+        "CalcYouLater_simple": "plaintext",
+        "CalcYouLater_complex": "plaintext",
+        "*.h": "c",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "queue": "cpp",
+        "iomanip": "cpp",
+        "ios": "cpp",
+        "stack": "cpp",
+        "deque": "cpp",
+        "string": "cpp"
+    }
+}
